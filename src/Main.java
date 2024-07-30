@@ -6,4 +6,8 @@ public class Main {
         System.out.println("Hola Mundo 2");
         System.out.println("Hola mundo 3");
     }
+    public static int suma(int a, int b)
+    {
+        return a + b;
+    }
 }
